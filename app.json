@@ -50,6 +50,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "02699bd0-9d0a-4544-a3f2-c82182a3dc9b"
+      }
+    },
+    "owner": "kingaustin360"
   }
 }
